@@ -1,0 +1,1 @@
+git clone https://github.com/KrutikGadhiya/Sign-language-detection-using-open-cv.git
